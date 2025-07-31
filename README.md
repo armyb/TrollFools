@@ -5,7 +5,7 @@
 ## 仓库信息
 
 - **仓库名称**: 宝藏巨魔仓库
-- **维护者**:  iosrxwy
+- **维护者**:  armyb
 - **支持系统**: iOS 14.0-17.0
 
 ## 添加仓库
@@ -13,7 +13,7 @@
 在TrollFools SLPEdition设备上添加此仓库：
 
 ```
-https://iosrxwy.github.io/TrollFools/
+https://armyb.github.io/TrollFools/
 ```
 
 ## 可用插件示例

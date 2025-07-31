@@ -1,0 +1,39 @@
+{
+  "repository_name": "宝藏巨魔仓库",
+  "repository_icon": "https://iosrxwy.github.io/TrollFools/repo-icon.png",
+  "packages": [
+    {
+      "name": "TGMask",
+      "version": "v1.0.0",
+      "description": "一个伪装插件，输入当前时间进入解锁进入Telegram。",
+      "icon_url": "https://iosrxwy.github.io/TrollFools/icons/tgmask-icon.png",
+      "dylib": "https://iosrxwy.github.io/TrollFools/downloads/tgmask.dylib",
+      "section": "Tweaks",
+      "size": "1.5MB",
+      "author": "iosrxwy",
+      "screenshots": []
+    },
+    {
+      "name": "BZhelper",
+      "version": "v1.6.7",
+      "description": "宝藏广告助手，广告加速、广告屏蔽，等等。",
+      "icon_url": "https://iosrxwy.github.io/TrollFools/icons/bzhelper-icon.png",
+      "dylib": "https://iosrxwy.github.io/TrollFools/downloads/bzhelper.dylib",
+      "section": "Tweaks",
+      "size": "1.8MB",
+      "author": "iosrxwy",
+      "screenshots": []
+    },
+    {
+      "name": "heiheipay",
+      "version": "v1.0.0",
+      "description": "本地验证通用解锁插件，点击购买取消即可。",
+      "icon_url": "https://iosrxwy.github.io/TrollFools/icons/heiheipay-icon.png",
+      "dylib": "https://iosrxwy.github.io/TrollFools/downloads/heiheipay.dylib",
+      "section": "Tweaks",
+      "size": "1.2MB",
+      "author": "iosrxwy",
+      "screenshots": []
+    }
+  ]
+} 

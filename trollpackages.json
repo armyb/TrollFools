@@ -34,6 +34,17 @@
       "size": "1.2MB",
       "author": "iosrxwy",
       "screenshots": []
+    },
+    {
+      "name": "微信插件收纳",
+      "version": "v1.0.0",
+      "description": "微信8.0.57可用",
+      "icon_url": "https://armyb.github.io/TrollFools/icons/heiheipay-icon.png",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/插件收纳.dylib",
+      "section": "Tweaks",
+      "size": "166.15KB",
+      "author": "iosrxwy",
+      "screenshots": []
     }
   ]
 } 

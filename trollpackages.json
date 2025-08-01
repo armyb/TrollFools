@@ -40,7 +40,7 @@
       "version": "v1.0.0",
       "description": "微信8.0.57可用",
       "icon_url": "https://armyb.github.io/TrollFools/icons/heiheipay-icon.png",
-      "dylib": "https://armyb.github.io/TrollFools/downloads/插件收纳.dylib",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wcplugins.dylib",
       "section": "Tweaks",
       "size": "166.15KB",
       "author": "iosrxwy",

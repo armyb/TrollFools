@@ -3,45 +3,12 @@
   "repository_icon": "https://armyb.github.io/TrollFools/repo-icon.png",
   "packages": [
     {
-      "name": "TGMask",
-      "version": "v1.0.0",
-      "description": "一个伪装插件，输入当前时间进入解锁进入Telegram。",
-      "icon_url": "https://armyb.github.io/TrollFools/icons/tgmask-icon.png",
-      "dylib": "https://armyb.github.io/TrollFools/downloads/tgmask.dylib",
-      "section": "Tweaks",
-      "size": "1.5MB",
-      "author": "iosrxwy",
-      "screenshots": []
-    },
-    {
-      "name": "BZhelper",
-      "version": "v1.6.7",
-      "description": "宝藏广告助手，广告加速、广告屏蔽，等等。",
-      "icon_url": "https://armyb.github.io/TrollFools/icons/bzhelper-icon.png",
-      "dylib": "https://armyb.github.io/TrollFools/downloads/bzhelper.dylib",
-      "section": "Tweaks",
-      "size": "1.8MB",
-      "author": "iosrxwy",
-      "screenshots": []
-    },
-    {
-      "name": "heiheipay",
-      "version": "v1.0.0",
-      "description": "本地验证通用解锁插件，点击购买取消即可。",
-      "icon_url": "https://armyb.github.io/TrollFools/icons/heiheipay-icon.png",
-      "dylib": "https://armyb.github.io/TrollFools/downloads/heiheipay.dylib",
-      "section": "Tweaks",
-      "size": "1.2MB",
-      "author": "iosrxwy",
-      "screenshots": []
-    },
-    {
       "name": "微信插件收纳",
       "version": "v1.0.0",
       "description": "微信插件收纳",
       "icon_url": "",
-      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/插件收纳.dylib",
-      "section": "wechat",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/wcplugins.dylib",
+      "section": "微信",
       "size": "166.15KB",
       "author": "",
       "screenshots": []
@@ -51,8 +18,8 @@
       "version": "v2.0-9",
       "description": "锤子助手 2.0-9",
       "icon_url": "",
-      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/锤子助手 2.0-9.dylib",
-      "section": "wechat",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/chuiziHelper_2.0-9.dylib",
+      "section": "微信",
       "size": "27.96MB",
       "author": "",
       "screenshots": []

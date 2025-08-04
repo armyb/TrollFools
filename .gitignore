@@ -26,3 +26,7 @@ Thumbs.db
 
 # history
 .history
+
+# backup
+*.bak
+*.backup

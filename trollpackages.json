@@ -38,12 +38,23 @@
     {
       "name": "微信插件收纳",
       "version": "v1.0.0",
-      "description": "微信8.0.57可用",
-      "icon_url": "https://armyb.github.io/TrollFools/icons/heiheipay-icon.png",
-      "dylib": "https://armyb.github.io/TrollFools/downloads/wcplugins.dylib",
-      "section": "Tweaks",
+      "description": "微信插件收纳",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/插件收纳.dylib",
+      "section": "wechat",
       "size": "166.15KB",
-      "author": "未知",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "锤子助手",
+      "version": "v2.0-9",
+      "description": "锤子助手 2.0-9",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/锤子助手 2.0-9.dylib",
+      "section": "wechat",
+      "size": "27.96MB",
+      "author": "",
       "screenshots": []
     }
   ]

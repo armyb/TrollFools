@@ -23,6 +23,105 @@
       "size": "27.96MB",
       "author": "",
       "screenshots": []
+    },
+    {
+      "name": "我的页面资料居中",
+      "version": "v1.0.0",
+      "description": "我的页面资料居中",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/WCMyPageInfoCenter.dylib",
+      "section": "微信",
+      "size": "253kB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Mikoto",
+      "version": "v1.0.0",
+      "description": "Mikoto",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/MikotoHelper.dylib",
+      "section": "微信",
+      "size": "78MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "HBB-iPad登录",
+      "version": "v8.1",
+      "description": "HBB-iPad登录",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/libMMHBIpadLogin_8.1.dylib",
+      "section": "微信",
+      "size": "356KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "PKC助手",
+      "version": "v0.7.8",
+      "description": "PKC助手",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/PKC0.7.8.dylib",
+      "section": "微信",
+      "size": "3.37MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "黄白助手",
+      "version": "v1.8.9",
+      "description": "黄白助手 1.8.9",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/HBHelper_1.8.9.dylib",
+      "section": "微信",
+      "size": "3.37MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "微信去广告",
+      "version": "v1.0.0",
+      "description": "微信去广告",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/wxadblock.dylib",
+      "section": "微信",
+      "size": "141KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "微信助手",
+      "version": "v3.8-7",
+      "description": "微信助手 3.8-7",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/wxHelper_3.8-7.dylib",
+      "section": "微信",
+      "size": "141KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "虚拟视频",
+      "version": "v2.2.5",
+      "description": "虚拟视频 2.2.5",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/xnsp_2.2.5.dylib",
+      "section": "微信",
+      "size": "141KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "主题盒子",
+      "version": "v2.1.1",
+      "description": "主题盒子 2.1.1",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/wechat/themeBox_2.1.1.dylib",
+      "section": "微信",
+      "size": "141KB",
+      "author": "",
+      "screenshots": []
     }
   ]
 } 

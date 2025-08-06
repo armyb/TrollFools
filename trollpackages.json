@@ -3,6 +3,17 @@
   "repository_icon": "https://armyb.github.io/TrollFools/repo-icon.png",
   "packages": [
     {
+      "name": "宝藏助手通用版",
+      "version": "v1.6.7",
+      "description": "宝藏助手通用版",
+      "icon_url": "",
+      "dylib": "https://armyb.github.io/TrollFools/downloads/bzhelper_1.6.7.dylib",
+      "section": "",
+      "size": "2.37MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
       "name": "微信插件收纳",
       "version": "v1.0.0",
       "description": "微信插件收纳",
